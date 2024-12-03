@@ -1,2 +1,2 @@
 # terraform-projects
-Repositório dedicado para projetos com Terraform, focado na Infraestrutura como Código (IaC).
+Repositório dedicado a projetos com Terraform, focado na Infraestrutura como Código (IaC).
